@@ -1,0 +1,46 @@
+*.mp4
+z_9_side/
+*.pt
+# Miscellaneous
+application/axie/*.class
+application/axie/*.log
+application/axie/*.pyc
+application/axie/*.swp
+application/axie/.DS_Store
+application/axie/.atom/
+application/axie/.buildlog/
+application/axie/.history
+application/axie/.svn/
+application/axie/migrate_working_dir/
+__pycache_/
+# IntelliJ related
+application/axie/*.iml
+application/axie/*.ipr
+application/axie/*.iws
+application/axie/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+application/axie/**/doc/api/
+application/axie/**/ios/Flutter/.last_build_id
+application/axie/.dart_tool/
+application/axie/.flutter-plugins
+application/axie/.flutter-plugins-dependencies
+application/axie/.pub-cache/
+application/axie/.pub/
+application/axie/build/
+
+# Symbolication related
+application/axie/app.*.symbols
+
+# Obfuscation related
+application/axie/app.*.map.json
+personSaver.py
+# Android Studio will place build artifacts here
+application/axie/android/app/debug
+application/axie/android/app/profile
+application/axie/android/app/release
